@@ -1,7 +1,12 @@
-#TRYING OUT GIT
+# Welcome to my Repository!
 
-Trying out github
+# About Me!
+- Hi, I'm Shawn Michael Jumawan
+- I'm currently studying Bachelor of Science in Information Technolog
+- I'm studying at Polytechnic University of the Philippines (QC Campus)
 
-## sub header!!
+# Contact Details!
+- Phone: 09978310189
+- Email: shawnmichaeljumawan@gmail.com
+- Github: https://github.com/ImShawnTheSheep
 
-Trying github if this will be useful

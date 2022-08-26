@@ -1,6 +1,6 @@
 #include <iostream>
 
-void bubbleSort();
+void ballonSort();
 
 int main(int argc, char const *argv[])
 {
@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
     return 0;
 }
 
-void bubbleSort()
+void ballonSort()
 {
     int n = 10;
 

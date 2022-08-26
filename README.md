@@ -10,7 +10,7 @@
 - Email: shawnmichaeljumawan@gmail.com
 - Github: https://github.com/ImShawnTheSheep
 
-# Follow me on Socials
+# Follow me on Social
 - Facebook: @the.real.shawnjumawan
 - Instagram: @dakilangshawn
 - Discord: ImShawnTheSheep#2715
